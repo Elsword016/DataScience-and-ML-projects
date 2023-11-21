@@ -6,7 +6,7 @@ Implementation of simple panoptic segmentation using CLIPSegmentation model (htt
 
 ![CLIPsam](https://github.com/Elsword016/Road-to-learning-ML/assets/29883365/cda9759b-1c70-40af-b4f3-25a818d6c89d)
 
-## Segment Anything model prompting ##
+## 2. Segment Anything model prompting ##
 Trying out Segment Anything model from MetaAI with bounding box prompts. In this case, we give the bounding box coordinates to the model of the ROI and generate the a high-quality segmentation.
 - Automatic mask generation 
 ![autogen](https://github.com/Elsword016/Road-to-learning-ML/assets/29883365/7fdb48e5-b7d5-4a84-9b0b-8e01031cb7f7)
