@@ -16,8 +16,6 @@ import plotly.figure_factory as ff
 import time
 import shap
 from streamlit_shap import st_shap
-sns.set_style('ticks')
-sns.set_context('paper')
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
