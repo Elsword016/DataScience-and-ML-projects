@@ -30,7 +30,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data() -> pd.DataFrame:
-    df = pd.read_csv(r'D:\portfolio\tips.csv')
+    df = pd.read_csv('waiter_tips/tips.csv')
     return df
 df = load_data()
 
