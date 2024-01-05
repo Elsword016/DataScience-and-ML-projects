@@ -216,21 +216,6 @@ with fig13:
     st.plotly_chart(fig)
 
 st.markdown('**All the models gave total_bill as the most important feature**')
-
-st.subheader("Model explainability with SHAP")
-st.write("We use SHAP to explain the model predictions")
-explainer = shap.Explainer(xgb)
-shap_values = explainer(X_test)
-st.write(f"SHAP values shape: {shap_values.shape}")
-st.write(f"X_test shape: {X_test.shape}")
-
-# SHAP plot
-sh1,sh2 = st.columns(2)
-with sh1:
-    st_shap(shap.plots.waterfall(shap_values[0]),height=300)
-with sh2:
-    st_shap(shap.plots.beeswarm(shap_values),height=300)
-
 # Prediction
 st.subheader("Prediction")
 st.write("We can now use the model to predict the tip for a new customer")
