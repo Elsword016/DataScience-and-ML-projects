@@ -1,6 +1,3 @@
-from hmac import new
-from cv2 import exp
-from matplotlib import category
 import numpy as np 
 import matplotlib.pyplot as plt
 import seaborn as sns 
