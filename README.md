@@ -13,3 +13,7 @@ Trying out Segment Anything model from MetaAI with bounding box prompts. In this
 
 - Bounding box prompt for mask generation 
 ![bbox_prompt](https://github.com/Elsword016/Road-to-learning-ML/assets/29883365/059a8c58-6c21-4467-acb4-d22d667ae712)
+
+## 3. EDA+Streamlit Dashboard - Tips prediction
+Simple Exploratory data analysis and regression modelling to predict the amount of tips received by the waiter. I learned how to use streamlit to create a simple dashboard for data visualization and also use the models for prediction based on values obtained from the user. [Dashboard link](https://datascienceportfolio-kkcsplxxk3xdzrsabx5wi8.streamlit.app/)
+![dash](https://github.com/Elsword016/DataScience_portfolio/blob/main/waiter_tips/Screenshot%202024-02-13%20at%2014.11.22.png)
