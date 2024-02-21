@@ -24,7 +24,7 @@ Using Pytorch I implemented a Vision Transformer totally from scratch, similar t
 |-------------------------|-------------------------|
 
 ## 5. Segmenting Retina blood vessels using a finetuned Segformer model
-Segmentation using Segformer base model from HuggingFace on Retina blood vessel dataset
+Segmentation using Segformer base model from HuggingFace on Retina blood vessel dataset with a simple gradio interface for inferencing
 
 Dataset obtained from Kaggle - [Blood Vessel Data](https://www.kaggle.com/datasets/abdallahwagih/retina-blood-vessel)
 
