@@ -29,6 +29,8 @@ Dataset obtained from Kaggle - [Blood Vessel Data](https://www.kaggle.com/datase
 
 ## 5. Dendritic spine segmentation using Segformer with LoRA Adapters
 Segmentation of dendritic spines from 2-photon microscopy images. I used the base Segformer model and then converted it into a LoRA model using the PEFT library to reduce the number of parameters.
+
+More details here-> [ReadMe](Spine_Segmentation/Readme.md)
 | ![image](https://github.com/Elsword016/DataScience_portfolio/assets/29883365/017956cc-c653-4c82-8073-f59b21d1476b) | ![image](https://github.com/Elsword016/DataScience_portfolio/assets/29883365/be50ee43-ffe9-45a6-83e6-882935776142)
 |-------------------------|-------------------------|
 
