@@ -34,5 +34,19 @@ More details here-> [ReadMe](Spine_Segmentation/Readme.md)
 
 ![image](https://github.com/Elsword016/DataScience_portfolio/assets/29883365/be50ee43-ffe9-45a6-83e6-882935776142)
 
+## 6. Spine segmentation with SAM using point prompts
+Spine segmentation by finetuning [Segment Anything](https://ai.meta.com/research/publications/segment-anything/) model using points as prompts rather than bounding boxes. 
+
+For each of the ground truth masks, points (n=100) are sampled from the non-zero pixel positions
+then forward it to the prompt encoder. 
+
+I used the HuggingFace 🤗 [SamModel](https://huggingface.co/facebook/sam-vit-base) class.
+
+(It will be a nice experiment to see the quality of detection using bounding box prompt vs points)
+
+**Dataset** - My own spine images
+![image](https://github.com/Elsword016/DataScience_portfolio/assets/29883365/5222d82c-7373-4cbc-bf4b-ac6f02a556b4)
+
+
 
 
