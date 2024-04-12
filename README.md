@@ -1,5 +1,5 @@
-# DataScience_portfolio
-Some projects to showcase my learning, particularly focussing on fine-tuning models on biological data. Some might be related to experiment data for which I won't share the data for obvious reasons.
+# Image Processing 
+Some projects to showcase my learning, particularly focussing on fine-tuning models on biological data and image processing in general. Some might be related to experiment data for which I won't share the data for obvious reasons. 
 
 ## 1. CLIP-Seg + SAM segmentation
 Implementation of simple panoptic segmentation using CLIPSegmentation model (https://huggingface.co/blog/clipseg-zero-shot) and then refining the low-resolution mask with Segment Anything(https://segment-anything.com/) by prompting it with points sampled within the low-res mask from CLIPSeg.
