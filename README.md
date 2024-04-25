@@ -47,6 +47,18 @@ I used the HuggingFace 🤗 [SamModel](https://huggingface.co/facebook/sam-vit-b
 **Dataset** - My own spine images
 ![image](https://github.com/Elsword016/DataScience_portfolio/assets/29883365/5222d82c-7373-4cbc-bf4b-ac6f02a556b4)
 
+## 7. Multi-class prediction of obesity risk
+To predict obesity risk in individuals related to cardiovascular disease from various features. I evaluated different classifiers and performed SHAP analysis to find the important features relevant to the classification.
+
+Dataset: [Kaggle playground series](https://www.kaggle.com/competitions/playground-series-s4e2)
+
+| ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/bf30f6f4-2ecf-4e1c-93fc-10c6266cf3d1) | ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/e1d15290-7a9b-43af-88f1-a6a5b9ec53b5)
+|-------------------------|-------------------------|
+
+
+
+
+
 
 
 
