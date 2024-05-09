@@ -21,6 +21,6 @@ tqdm==4.66.1
 ## Sample output:
 
 
-https://github.com/Elsword016/science_mltask/assets/29883365/49061bfe-ffcc-4ce7-b4ee-c05754df5252
+ https://github.com/Elsword016/science_mltask/assets/29883365/49061bfe-ffcc-4ce7-b4ee-c05754df5252
 
 
