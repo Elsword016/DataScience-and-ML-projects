@@ -55,6 +55,17 @@ Dataset: [Kaggle playground series](https://www.kaggle.com/competitions/playgrou
 | ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/bf30f6f4-2ecf-4e1c-93fc-10c6266cf3d1) | ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/e1d15290-7a9b-43af-88f1-a6a5b9ec53b5)
 |-------------------------|-------------------------|
 
+## 8. A quick eye-tracking solution
+A simple pupil segmentation followed by centroid tracking. Segmentation is done using K-means and simple image-processing tricks. It's not SOTA, but I came with it in 4 hours for a competition.
+
+**Dataset** - proprietary 
+
+
+| ![segmentation](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/9aab427b-de83-4995-bebf-237ff2090b55) | ![output_track](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/d204341a-ca4c-4d13-a802-f544180607a6)
+|-------------------------|-------------------------|
+
+
+
 
 
 
