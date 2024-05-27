@@ -64,6 +64,11 @@ A simple pupil segmentation followed by centroid tracking. Segmentation is done 
 | ![segmentation](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/9aab427b-de83-4995-bebf-237ff2090b55) | ![output_track](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/d204341a-ca4c-4d13-a802-f544180607a6)
 |-------------------------|-------------------------|
 
+## 9. Zero-shot eye segmentation
+A simple panoptic segmentation of pupil for eye-tracking combining CLIP-Seg and SAM models. An improved version of the previous simple pupil segmentation I did for a competition.
+
+Dataset: Private
+![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/9d7bcf8a-7631-4e16-bd97-f18285968de8)
 
 
 
