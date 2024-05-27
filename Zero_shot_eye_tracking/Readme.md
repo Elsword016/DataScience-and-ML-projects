@@ -12,7 +12,7 @@ First, the frames are passed into the **CLIP-Seg** model and the pupil is identi
 
 - #### Segmentation
 
-  The K-means method can be found [here](Eye_tracking), which I used for a competition, for isolating the pupil and generating segmentation and tracking as fast as possible without using any sophisticated methods. The lower panel shows how precise the mask obtained with Zero-shot panoptic segmentation is by combining two SOTA models.
+  The K-means method can be found [here](https://github.com/Elsword016/DataScience-and-ML-projects/tree/main/Eye_tracking), which I used for a competition, for isolating the pupil and generating segmentation and tracking as fast as possible without using any sophisticated methods. The lower panel shows how precise the mask obtained with Zero-shot panoptic segmentation is by combining two SOTA models.
 
 ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/e34744ae-73b0-49c3-842b-cfb905523b98)
 
