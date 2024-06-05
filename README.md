@@ -29,7 +29,7 @@ More details here-> [ReadMe](Spine_Segmentation/Readme.md)
 
 ![image](https://github.com/Elsword016/DataScience_portfolio/assets/29883365/be50ee43-ffe9-45a6-83e6-882935776142)
 
-## 5. Spine segmentation with SAM using point prompts
+## 5. [Spine segmentation with SAM using point prompts](Spine_Segmentation)
 Spine segmentation by finetuning [Segment Anything](https://ai.meta.com/research/publications/segment-anything/) model using points as prompts rather than bounding boxes. 
 
 For each of the ground truth masks, points (n=100) are sampled from the non-zero pixel positions
@@ -42,15 +42,7 @@ I used the HuggingFace 🤗 [SamModel](https://huggingface.co/facebook/sam-vit-b
 **Dataset** - My own spine images
 ![image](https://github.com/Elsword016/DataScience_portfolio/assets/29883365/5222d82c-7373-4cbc-bf4b-ac6f02a556b4)
 
-## 6. Multi-class prediction of obesity risk
-To predict obesity risk in individuals related to cardiovascular disease from various features. I evaluated different classifiers and performed SHAP analysis to find the important features relevant to the classification.
-
-Dataset: [Kaggle playground series](https://www.kaggle.com/competitions/playground-series-s4e2)
-
-| ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/bf30f6f4-2ecf-4e1c-93fc-10c6266cf3d1) | ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/e1d15290-7a9b-43af-88f1-a6a5b9ec53b5)
-|-------------------------|-------------------------|
-
-## 7. A quick eye-tracking solution
+## 7. [A quick eye-tracking solution](Eye_tracking)
 A simple pupil segmentation followed by centroid tracking. Segmentation is done using K-means and simple image-processing tricks. It's not SOTA, but I came with it in 4 hours for a competition.
 
 **Dataset** - proprietary 
@@ -59,7 +51,7 @@ A simple pupil segmentation followed by centroid tracking. Segmentation is done 
 | ![segmentation](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/9aab427b-de83-4995-bebf-237ff2090b55) | ![output_track](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/d204341a-ca4c-4d13-a802-f544180607a6)
 |-------------------------|-------------------------|
 
-## 8. Zero-shot eye segmentation
+## 8. [Zero-shot Panoptic Eye Segmentation](Zero_shot_eye_tracking)
 A simple panoptic segmentation of the pupil for eye-tracking combining CLIP-Seg and SAM models. An improved version of the previous simple pupil segmentation I did for a competition.
 
 Dataset: Private
