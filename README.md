@@ -1,7 +1,7 @@
 # Projects
 Some projects to showcase my learning, particularly focussing on fine-tuning models on biological data and image processing in general. Some might be related to experiment data for which I won't share the data for obvious reasons. Most of the projects focus on Computer Vision since I work with image data a lot, but I will try to put more projects related other domains such as NLP.
 
-## 1. Segment Anything model prompting ##
+## 1. [Segment Anything model prompting](SAM_prompting) ##
 Trying out Segment Anything model from MetaAI with bounding box prompts. In this case, we give the bounding box coordinates to the model of the ROI and generate the a high-quality segmentation.
 - Automatic mask generation 
 ![autogen](https://github.com/Elsword016/Road-to-learning-ML/assets/29883365/7fdb48e5-b7d5-4a84-9b0b-8e01031cb7f7)
