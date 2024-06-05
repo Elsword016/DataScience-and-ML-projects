@@ -65,6 +65,12 @@ A simple panoptic segmentation of the pupil for eye-tracking combining CLIP-Seg 
 Dataset: Private
 ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/9d7bcf8a-7631-4e16-bd97-f18285968de8)
 
+## 9. BELKA binding prediction
+
+My approach for the Kaggle competition [Leash Bio](https://www.kaggle.com/competitions/leash-BELKA/overview) to predict the binding nature between a protein and a molecule. Using simple Xgboost with molecular fingerprints as input features and also fine-tuning BERT model from HuggingFace, by **tokenizing the protein and the smiles together** using a `[SEP]` token similar to what is done for question-answering datasets. Also comes with a small gradio interface for easy testing new inputs.
+
+![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/590f2c09-0ba7-43a8-94ca-2485e7d29c8a)
+
 
 
 
