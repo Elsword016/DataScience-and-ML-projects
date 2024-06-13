@@ -4,6 +4,7 @@ M. U. Ghani, F. Mesadi, S. D. Kanik, A. O. Argunsah, A. Hobbiss, I. Israely, D. 
 [GitHub page](https://github.com/mughanibu/Dendritic-Spine-Analysis-Dataset)
 
 A fully annotated dataset of Two-Photon Laser Scanning Microscopy (2PLSM) images of three types of dendritic spines. We make a standard dendritic analysis dataset publicly available including raw data, manual annotations (segmentations), and manual labels. Manual labels and annotation (segmentations) are provided by a neuroscience expert.
+
 ![image](https://github.com/Elsword016/DataScience_portfolio/assets/29883365/399b0d0f-5295-458d-ad76-49655a64aa61)
 
 ### Model details:
