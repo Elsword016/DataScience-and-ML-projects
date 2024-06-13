@@ -12,10 +12,10 @@ Here, I tackled an image registration problem to compute the suitable affine tra
 
 ## Results
 
+The model takes in inputs of two images that are to be registered, and then using a suitable optimizer the ncc loss was minimized. Repeated iteration and experimenting with hyperparameters such as learning rate, epochs etc is required for proper optimization.
 ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/ece35883-cf44-47e2-b825-5611b75ed163)
 
-The model also returns the final transformation matrix which then can be applied on other images.
-
+**The model also returns the final transformation matrix which then can be applied on other images.**
 
 ## Reference
 ```
