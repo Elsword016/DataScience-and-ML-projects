@@ -63,6 +63,10 @@ My approach for the Kaggle competition [Leash Bio](https://www.kaggle.com/compet
 
 ![image](https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/590f2c09-0ba7-43a8-94ca-2485e7d29c8a)
 
+## 10. Iterative Affine transform with Spatial Transformers
+
+I tackled an image registration problem to compute the suitable affine transforms between fixed and moving images of blood vessels using **Spatial Transformers**. The model is initialized with an identity transformation matrix [1, 0, 0, 0, 1, 0] and the model's job is to refine this matrix to get the suitable final transformation matrix. I used Normalized Cross Correlation (NCC) as the loss function as this is one of the standards used in unsupervised image registration and we try to minimize this function.
+
 
 
 
