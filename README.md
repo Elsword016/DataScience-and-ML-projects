@@ -67,6 +67,8 @@ My approach for the Kaggle competition [Leash Bio](https://www.kaggle.com/compet
 
 I tackled an image registration problem to compute the suitable affine transforms between fixed and moving images of blood vessels using **Spatial Transformers**. The model is initialized with an identity transformation matrix [1, 0, 0, 0, 1, 0] and the model's job is to refine this matrix to get the suitable final transformation matrix. I used Normalized Cross Correlation (NCC) as the loss function as this is one of the standards used in unsupervised image registration and we try to minimize this function.
 
+<img width="525" alt="Screen_Shot_2020-07-19_at_5 48 34_PM_vFLk7jR" src="https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/91040969-6bb8-4ee3-835b-ef32c5401b13">
+
 
 
 
