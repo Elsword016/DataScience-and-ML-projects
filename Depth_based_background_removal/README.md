@@ -14,6 +14,8 @@ In the context of background removal, using disparity instead of depth can somet
 
 However, the effectiveness still depends on the quality of your initial depth estimation and the specific characteristics of your scene.
 
+Please look at the Depth-pro GitHub repo for installation instructions: [Depth-pro code](https://github.com/apple/ml-depth-pro) 
+
 ### Citation 
 
 ```
