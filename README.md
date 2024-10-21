@@ -69,7 +69,7 @@ I tackled an image registration problem to compute the suitable affine transform
 
 <img width="525" alt="Screen_Shot_2020-07-19_at_5 48 34_PM_vFLk7jR" src="https://github.com/Elsword016/DataScience-and-ML-projects/assets/29883365/91040969-6bb8-4ee3-835b-ef32c5401b13">
 
-## 11. Depth Based Background Removal 
+## 11. [Depth-Based Background Removal](Depth_based_background_removal)
 
 A simple way to remove background from images using Apple's Depth-pro model.
 
