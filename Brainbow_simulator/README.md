@@ -26,7 +26,7 @@ The image above shows the input data which is morphology and then generates a 5 
 
 ### Simulator 
 
-Following are the parameters to the simulator.
+Following are the parameters to the simulator. The simulator code is in the notebook `brainbow_simulator.ipynb` 
 
 ```bash
 stack_shape = (100, 200, 200)  # 3D stack dimensions (z, y, x)
