@@ -75,6 +75,12 @@ A simple way to remove background from images using Apple's Depth-pro model.
 
 ![bg_remove](https://github.com/user-attachments/assets/6a436c07-c6e3-4422-8144-a4174bee6808)
 
+## 12. Brainbow-Image simulator
+
+Simulating brainbow-like multicolour images from volumetric images of neuron reconstructions. Replication of the algorithm from ***Automated scalable segmentation of neurons from multispectral images***, Sümbül et al. (2016)
+
+![image](https://github.com/user-attachments/assets/f3c2761d-7e0c-4f50-925c-a6221d0c4108)
+
 
 
 
